@@ -1,0 +1,18 @@
+Region ID    Region Name             Server ID
+AWS-01    US East (N. Virginia)       cdgeb-server-01
+AWS-02    EU (London)                 cdgeb-server-02
+AWS-03    South America (São Paulo)   cdgeb-server-03
+AWS-04    Asia Pacific (Tokyo)        cdgeb-server-04
+AWS-05    Asia Pacific (Singapore)    cdgeb-server-05
+AWS-06    Canada (Central)            cdgeb-server-06
+AWS-07    US East (Ohio)              cdgeb-server-07
+AWS-08    US West (N. California)     cdgeb-server-08
+AWS-09    US West (Oregon)            cdgeb-server-09
+AWS-10    Asia Pacific (Mumbai)       cdgeb-server-10
+AWS-11    Asia Pacific (Osaka)        cdgeb-server-11
+AWS-12    Asia Pacific (Seoul)        cdgeb-server-12
+AWS-13    Asia Pacific (Sidney)       cdgeb-server-13
+AWS-14    EU (Frankfurt)              cdgeb-server-14
+AWS-15    EU (Ireland)                cdgeb-server-15
+AWS-16    EU (Paris)                  cdgeb-server-16
+AWS-17    EU (Stockholm)              cdgeb-server-17

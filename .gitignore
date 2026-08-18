@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.venv/
+env/
+# Si no querés subir el CSV gigante de mediciones descomentalo:
+# Measurements.csv
